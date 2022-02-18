@@ -18,8 +18,3 @@ Changed a few minor options
 * Portable
 * No advertisements or malware
 * Virus Free (The amount of autoclickers with viruses out there are uncountable)
-
-
-
-<a href="https://drive.google.com/file/d/1q5UuE-W0jQ97JDBlDetHlLIJpmd39HI6/view?usp=sharing"><img src="https://i.ibb.co/VL4MLcM/img.png" alt="HTML tutorial" style="width:25%;height:30%;"></a>
-
