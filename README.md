@@ -21,5 +21,5 @@ Changed a few minor options
 
 
 
-<a href="default.asp"><img src="https://i.ibb.co/tx3SvPT/images-removebg-preview.png" alt="HTML tutorial" style="width:15%;height:20%;"></a>
+<a href="default.asp"><img src="https://i.ibb.co/VL4MLcM/img.png" alt="HTML tutorial" style="width:20%;height:30%;"></a>
 
