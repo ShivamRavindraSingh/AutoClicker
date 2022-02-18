@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/dtYMJrm/icon.png">
 # AutoClicker
 A full-fledged autoclicker at your dynamic cursor location. The maximum amounts of clicked can also be set (or left as infinite).
 
@@ -16,3 +17,4 @@ Changed a few minor options
 * Portable
 * No advertisements or malware
 * Virus Free (The amount of autoclickers with viruses out there are uncountable)
+
