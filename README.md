@@ -21,5 +21,5 @@ Changed a few minor options
 
 
 
-<a href="https://drive.google.com/file/d/1q5UuE-W0jQ97JDBlDetHlLIJpmd39HI6/view"><img src="https://i.ibb.co/VL4MLcM/img.png" alt="HTML tutorial" style="width:25%;height:30%;"></a>
+<a href="https://drive.google.com/file/d/1q5UuE-W0jQ97JDBlDetHlLIJpmd39HI6/view?usp=sharing"><img src="https://i.ibb.co/VL4MLcM/img.png" alt="HTML tutorial" style="width:25%;height:30%;"></a>
 
