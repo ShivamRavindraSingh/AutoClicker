@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/tbGMv6P/icon.png">
+
 
 # AutoClicker
 A full-fledged autoclicker at your dynamic cursor location. The maximum amounts of clicked can also be set or left as infinite.
