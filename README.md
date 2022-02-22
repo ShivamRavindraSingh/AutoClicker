@@ -1,8 +1,7 @@
 
 
 # AutoClicker
-A full-fledged autoclicker at your dynamic cursor location. The maximum amounts of clicked can also be set or left as infinite.
-
+A full-fledged autoclicker at your dynamic cursor location. The maximum amounts of clicked can also be set or left as infinite.</br>
 Hotkeys work in the background for convenience.
 
 
