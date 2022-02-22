@@ -6,8 +6,9 @@ A full-fledged autoclicker at your dynamic cursor location. The maximum amounts 
 Hotkeys work in the background for convenience.
 
 
-# Whats new in v1.3
-Changed a few minor options
+# Version
+v1.0
+
 
 # Features
 * Set the amount of times to click (or unlimited)
